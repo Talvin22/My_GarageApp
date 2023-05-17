@@ -117,3 +117,4 @@ def get_auth_router(
         return await backend.logout(strategy, user, token)
 
     return router
+

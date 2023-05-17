@@ -1,5 +1,5 @@
 from fastapi import FastAPI, Depends
-from fastapi_users import FastAPIUsers
+from auth.get_auth import FastAPIUsers
 
 from auth.auth import auth_backend
 from auth.database import User
