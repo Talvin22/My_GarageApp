@@ -94,7 +94,8 @@ def get_auth_router(
             "car_brand": user.car_brand,
             "is_active": user.is_active,
             "is_superuser": user.is_superuser,
-            "is_verified": user.is_verified
+            "is_verified": user.is_verified,
+            "phone_number": user.phone_number
         }
 
     logout_responses: OpenAPIResponseType = {
