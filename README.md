@@ -1,6 +1,6 @@
-#My_GarageApp. The application was developed on 05/18/2023 by developers: Dzhaparov Talvin and Magdych Pavlo. Copyrighted
+#My_GarageApp. The application was developed on 05/18/2023 by developers: Dzhaparov Talvin. Copyrighted
 
-The authors allow:
+The author allow:
 
 distribute - copy, transfer your work, the Terms are as follows:
 the author does not allow the use of his work for commercial purposes (Noncommercial),
